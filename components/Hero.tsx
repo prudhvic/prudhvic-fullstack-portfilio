@@ -26,14 +26,14 @@ export default function Hero() {
         <div className="mt-8 flex justify-center gap-4">
           <a
             href="#projects"
-            className="px-6 py-3 bg-white text-black rounded-lg"
+            className="px-6 py-3 border hover:border-2 text-black rounded-lg"
           >
             View Projects
           </a>
 
           <a
             href="/resume.pdf"
-            className="px-6 py-3 border border-gray-700 rounded-lg"
+            className="px-6 py-3  hover:border-2 border rounded-lg"
           >
             Resume
           </a>

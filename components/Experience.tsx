@@ -17,7 +17,7 @@ export default function Experience() {
           </h3>
 
           <p className="text-gray-400">
-            Sketch Brahma • Jul 2026 – Present
+            Sketch Brahma • Jul 2026 – Sep 2026
           </p>
 
           <ul className="mt-4 space-y-2 text-gray-300">
