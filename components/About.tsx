@@ -6,7 +6,7 @@ export default function About() {
       </h2>
 
       <p className="text-gray-400 leading-8">
-        Full Stack Developer with 2+ years of experience
+        Full Stack Developer with 2-3 years of experience
         building scalable web applications and AI-powered
         solutions.
 
